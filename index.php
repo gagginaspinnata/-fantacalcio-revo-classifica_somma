@@ -7,7 +7,7 @@
 	<table>
 		<tr style="font-size:150%;">
 			<td><b>Squadra</b></td>
-			<td><b>Totale Squadra</b></td>
+			<td style="padding-left:50px;";><b>Totale Squadra</b></td>
 		</tr>
 		<? 
 		
