@@ -12,8 +12,8 @@
 		<? 
 		
 			for($i=0; $i<=count($arrClassifica); $i++ ){
-			
-				echo "<tr style=\"font-site:120%;border-bottom:1px dotted;\"><td>".$arrClassifica[$i][4]."</td><td style=\"padding-left:50px;\">".$arrClassifica[$i][26]."</td></tr>";
+				
+				echo "<tr style=\"font-site:120%;border-bottom:1px dotted;\"><td>".$arrClassifica[$i][4]."</td><td style=\"padding-left:50px;\">".$arrClassifica[$i][29]."</td></tr>";
 			
 			}
 		
