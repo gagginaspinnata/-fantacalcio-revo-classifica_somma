@@ -1,6 +1,6 @@
 <?
 	require_once('js/fcmClassificaDati.js.php');
-
+/*test*/
 ?>
 
 <div id="classifica_somma" style="background-color:white;padding:20px;margin-top:50px;">
